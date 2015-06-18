@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1415219640 source:j:\ds6p2\assign06p2.cpp
+	"llcpInt.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1415726686 j:\ds6p2\llcpint.h
+	<iostream>
+
+1415729338 source:j:\ds6p2\llcpimp.cpp
+	<iostream>
+	<cstdlib>
+	"llcpInt.h"
+
